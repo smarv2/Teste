@@ -7,7 +7,7 @@ package teste;
 
 /**
  *
- * @author MXI01020253A
+ * @author mramirez
  */
 public class PersonaVO {
     
